@@ -1,0 +1,14 @@
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\bin\Debug\net7.0\Seminar_06.exe
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\bin\Debug\net7.0\Seminar_06.deps.json
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\bin\Debug\net7.0\Seminar_06.runtimeconfig.json
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\bin\Debug\net7.0\Seminar_06.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\bin\Debug\net7.0\Seminar_06.pdb
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.AssemblyInfoInputs.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.AssemblyInfo.cs
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.csproj.CoreCompileInputs.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\refint\Seminar_06.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.pdb
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\Seminar_06.genruntimeconfig.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Seminar_06\obj\Debug\net7.0\ref\Seminar_06.dll
